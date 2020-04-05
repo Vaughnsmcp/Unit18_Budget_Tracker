@@ -1,0 +1,6 @@
+{
+    "name": "BudgetTracker",
+    "short_name": "Budget-App",
+    "start_url": "/",
+    "display": "standalone"
+}
