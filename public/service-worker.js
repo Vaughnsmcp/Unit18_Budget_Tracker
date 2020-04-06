@@ -1,11 +1,12 @@
 
 const FILES_TO_CACHE = [
   `/`,
-  `styles.css`,
-  `Manifest.webManifest`,
-  `db.js`,
-  `index.js`,
-  `index.html`
+  `/styles.css`,
+  `/Manifest.webManifest`,
+  `/db.js`,
+  `/index.js`,
+  `/index.html`,
+  `./icon-192x192.png`
 
 
 ];
