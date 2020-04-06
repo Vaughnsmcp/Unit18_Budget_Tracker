@@ -23,7 +23,7 @@ _No known bugs._
 * _ServiceWorker_
 * _Express_
 * _Heroku_
-* _CSS_
+* 
 
 
 
