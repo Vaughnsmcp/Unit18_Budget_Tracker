@@ -1,10 +1,12 @@
-# Unit18_Budget_Tracker#### By _**Vaughn McPherson**_
+## Unit18_Budget_Tracker 
+
+## By _**Vaughn McPherson**_
 
 ![TitlePageImage](https://i.pinimg.com/originals/1b/e5/6f/1be56fdb345330ba68f3c4984ef80f82.jpg)
 
 ## Description
 This app runs both on and offline to help manage your spending habits. 
-__
+
 ## Setup/Installation Requirements
 * _Clone Repo_
 * _NPM Install_
@@ -23,12 +25,11 @@ _No known bugs._
 * _ServiceWorker_
 * _Express_
 * _Heroku_
-* 
 
 
 
 
 
-### License
+## License
 
 Copyright (c) 2020 **_Vaughn McPherson_**
