@@ -3,6 +3,7 @@
 ![TitlePageImage](https://i.pinimg.com/originals/1b/e5/6f/1be56fdb345330ba68f3c4984ef80f82.jpg)
 
 ## Description
+This app runs both on and offline to help manage your spending habits. 
 __
 ## Setup/Installation Requirements
 * _Clone Repo_
@@ -14,7 +15,16 @@ __
 _No known bugs._
 
 ## Technologies Used
-* _Mongo_
+* _JavaScript_
+* _BootStrap_
+* _WebPack_
+* _ProgessiveWebApplication_
+* _Manifest_
+* _ServiceWorker_
+* _Express_
+* _Heroku_
+* _CSS_
+
 
 
 
