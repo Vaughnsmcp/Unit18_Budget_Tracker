@@ -1,29 +1,29 @@
-## Unit18_Budget_Tracker 
+## Unit13_Burger 
 
 ## By _**Vaughn McPherson**_
 
-![TitlePageImage](https://i.pinimg.com/originals/1b/e5/6f/1be56fdb345330ba68f3c4984ef80f82.jpg)
+![TitlePageImage](https://cdn.shopify.com/s/files/1/0153/2051/products/Ian_Glaubinger_-_Bobs_Burgers_1296x.jpg?v=1580084322)
 
 ## Description
-This app runs both on and offline to help manage your spending habits. 
+This app takes your burger order and adds it to a list. Simply enter the burger of your choice, click submit, then the devour button. Your selection will be added to your list. 
 
 ## Setup/Installation Requirements
 * _Clone Repo_
 * _NPM Install_
 * _Start Server, npm run start_
-* _go to browser, locathost:3000_
+* _go to browser, locathost:8000_
 
 ## Known Bugs
 _No known bugs._
 
 ## Technologies Used
 * _JavaScript_
-* _BootStrap_
-* _WebPack_
-* _ProgessiveWebApplication_
-* _Manifest_
-* _ServiceWorker_
+* _HTML_
+* _CSS_
+* _MySQL_
 * _Express_
+* _Node_
+* _Handlebars_
 * _Heroku_
 
 
