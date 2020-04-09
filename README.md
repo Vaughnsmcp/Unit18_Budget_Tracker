@@ -24,6 +24,7 @@ _No known bugs._
 
 ## Technologies Used
 * _Mongo_
+* _Mongoose_
 * _JavaScript_
 * _BootStrap_
 * _WebPack_
