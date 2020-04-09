@@ -11,7 +11,7 @@ This app takes your burger order and adds it to a list. Simply enter the burger 
 * _Clone Repo_
 * _NPM Install_
 * _Start Server, npm run start_
-* _go to browser, locathost:8000_
+* _go to browser, locathost:3000_
 
 ## Known Bugs
 _No known bugs._
