@@ -23,6 +23,7 @@ _No known bugs._
 
 
 ## Technologies Used
+* _HTML_ 
 * _Mongo_
 * _Mongoose_
 * _JavaScript_
