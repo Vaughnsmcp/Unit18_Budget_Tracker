@@ -35,6 +35,9 @@ _No known bugs._
 * _Express_
 * _Heroku_
 * _CSS_
+* _HTML
+* _JQuery_
+* _Heroku_
 
 
 
