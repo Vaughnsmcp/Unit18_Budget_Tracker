@@ -19,7 +19,7 @@ app.use(require("./routes/api.js"));
 
 
 const MONGODB_URI = process.env.MONGODB_URI
-mongoose.connect(MONGODB_URI || 'mongodb://localhost/budget', {
+mongoose.connect(MONGODB_URI || 'mongodb://vaughnsmcp>:Password1@ds263248.mlab.com:63248/heroku_6s2j85hm', {
   useNewUrlParser: true,
   useFindAndModify: false,
   useUnifiedTopology: true
